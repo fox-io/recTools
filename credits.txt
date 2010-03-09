@@ -1,0 +1,3 @@
+Some tool modules are integrated or derived from other addons of unknown origin.
+
+Support is provided by the compilation's author and not by the author(s) of the individual addons.

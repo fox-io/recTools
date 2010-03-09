@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: recTools
+## Author: Recluse
+## Version: $Id: recTools.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+## Dependencies: recMedia, recLib
+
+core.lua
+modules\color.lua
+modules\dump.lua
+modules\font.lua
+modules\frame.lua
+modules\mouse_frames.lua
